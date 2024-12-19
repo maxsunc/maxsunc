@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxsunc&label=Profile%20views&color=0e75b6&style=flat" alt="maxsunc" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://devpost.com/sunm0673](https://devpost.com/sunm0673)]
+- 👨‍💻 All of my projects are available at [https://devpost.com/sunm0673](https://devpost.com/sunm0673)
 
 - 🎮 All of my games are available at [https://ratweeb.itch.io/m](https://ratweeb.itch.io/m)
 
