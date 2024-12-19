@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devpost.com/sunm0673](https://devpost.com/sunm0673)
 
-- 🎮 All of my games are available at [https://ratweeb.itch.io/m](https://ratweeb.itch.io/m)
+- 🎮 All of my games are available at [https://ratweeb.itch.io/m](https://ratweeb.itch.io/)
 
 - 📫 How to reach me **maxsuncanada@gmail.com**
 
