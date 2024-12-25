@@ -7,7 +7,7 @@
 
 - 🎮 All of my games are available at [https://ratweeb.itch.io/](https://ratweeb.itch.io/)
 
-- 📫 How to reach me **maxsuncanada@gmail.com**
+- 📫 How to reach me **m43sun@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
