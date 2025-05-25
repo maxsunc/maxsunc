@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devpost.com/sunm0673](https://devpost.com/sunm0673)
 
-- My website: [https://sunmax.netlify.app/]((https://sunmax.netlify.app/))
+- My website: [https://sunmax.netlify.app](https://sunmax.netlify.app/)
 
 - 🎮 All of my games are available at [https://ratweeb.itch.io/](https://ratweeb.itch.io)
 
