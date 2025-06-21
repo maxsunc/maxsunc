@@ -7,9 +7,9 @@
 
 - My website: [https://sunmax.netlify.app](https://sunmax.netlify.app/)
 
-- 🎮 All of my games are available at [https://ratweeb.itch.io/](https://ratweeb.itch.io)
+- 2nd Year Computer engineering Student at the university of Waterloo!
 
-- 
+- 🎮 All of my games are available at [https://ratweeb.itch.io/](https://ratweeb.itch.io)
 
 - 📫 How to reach me **m43sun@uwaterloo.ca**
 
