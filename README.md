@@ -141,24 +141,6 @@ Other        ██░░░░░░░░░░░░░░░░░░    1.8
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
