@@ -14,7 +14,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I'm currently a 2nd Year Student at the **University of Waterloo** studying CE
+- 🔭 I'm a 2nd Year Student at the **University of Waterloo** studying CE
+- 🚀 Working an internship doing VR dev
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Unity, Node.js **
 - 📫 How to reach me: **m43sun@uwaterloo.ca**
@@ -93,54 +94,6 @@
 
 </div>
 
----
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-  
-```text
-JavaScript   ████████████████████   45.2%
-TypeScript   ████████████░░░░░░░░   28.7%
-Python       ██████░░░░░░░░░░░░░░   12.3%
-CSS          ████░░░░░░░░░░░░░░░░    8.1%
-HTML         ██░░░░░░░░░░░░░░░░░░    3.9%
-Other        ██░░░░░░░░░░░░░░░░░░    1.8%
-```
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 What I'm Working On
-- 🚀 Building a full-stack e-commerce platform
-- 🤖 Learning Machine Learning with Python
-- 📱 Developing a React Native mobile app
-- 🌐 Contributing to open source projects
-
-</td>
-<td width="50%">
-
-### 📚 What I'm Learning
-- 🦀 Rust programming language
-- ☁️ Cloud architecture (AWS/Azure)
-- 🧠 AI/ML algorithms
-- 🔐 Cybersecurity fundamentals
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -148,18 +101,6 @@ Other        ██░░░░░░░░░░░░░░░░░░    1.8
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -177,27 +118,5 @@ Other        ██░░░░░░░░░░░░░░░░░░    1.8
 <a href="mailto:m43sun@uwaterloo.ca">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
-
----
-
-## 📊 Profile Views
-
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
-
-</div>
-
----
-
-<div align="center">
-  
-### 🎉 Thanks for visiting! Let's connect and build something amazing together! 🚀
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
