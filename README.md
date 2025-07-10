@@ -35,7 +35,7 @@ how to reach me: **m43sun@uwaterloo.ca**
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/max-sun1/)">
+<a href="https://www.linkedin.com/in/max-sun1/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="[https://x.com/ratweeb]">
