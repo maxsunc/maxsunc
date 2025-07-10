@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-working an internship doing VR dev, i like clean code
+working an internship doing VR dev, i like clean code. \n
 how to reach me: **m43sun@uwaterloo.ca**
 
 ---
