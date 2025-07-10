@@ -14,11 +14,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I'm a 2nd Year Student at the **University of Waterloo** studying CE
-- 🚀 Working an internship doing VR dev
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Unity, Node.js **
-- 📫 How to reach me: **m43sun@uwaterloo.ca**
+working an internship doing VR dev, i like clean code
+how to reach me: **m43sun@uwaterloo.ca**
 
 ---
 
