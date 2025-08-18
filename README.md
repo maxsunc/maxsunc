@@ -21,15 +21,6 @@ working an internship doing VR dev, recently converted to clean coder.
 how to reach me: **m43sun@uwaterloo.ca**
 
 
---
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 ## 🌐 Connect With Me
 
