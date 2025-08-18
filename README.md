@@ -19,7 +19,7 @@
 ```text
 working an internship doing VR dev, recently converted to clean coder.
 how to reach me: **m43sun@uwaterloo.ca**
-```
+```text
 
 --
 
