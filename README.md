@@ -11,7 +11,8 @@
 
 
 
-working an internship doing VR dev.
+Currently interning in VR dev.
+Waterloo CE Sophmore 
 how to reach me: **m43sun@uwaterloo.ca**
 
 
