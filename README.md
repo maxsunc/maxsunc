@@ -10,10 +10,10 @@
 
 
 
+<p>Currently interning in VR dev.<br>
+Waterloo CE Sophmore <br>
+how to reach me: **m43sun@uwaterloo.ca**</p>
 
-Currently interning in VR dev.
-Waterloo CE Sophmore 
-how to reach me: **m43sun@uwaterloo.ca**
 
 
 
