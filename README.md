@@ -10,7 +10,7 @@
 
 
 
-<p>Currently interning in VR dev.<br>
+<p>Prev. @ EXO<br>
 Waterloo CE Sophmore <br>
 how to reach me: **m43sun@uwaterloo.ca**</p>
 
