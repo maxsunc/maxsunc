@@ -11,8 +11,8 @@
 
 
 <p>Prev. @ EXO<br>
-Waterloo CE Sophmore <br>
-how to reach me: m43sun@uwaterloo.ca</p>
+UWaterloo CE Sophmore <br>
+How to reach me: m43sun@uwaterloo.ca</p>
 
 
 
