@@ -10,7 +10,7 @@
 
 
 
-<p>Prev. @ EXO<br>
+<p>Prev @ EXO<br>
 UWaterloo CE Sophmore <br>
 How to reach me: m43sun@uwaterloo.ca</p>
 
