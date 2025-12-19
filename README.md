@@ -1,19 +1,12 @@
-<div align="center">
-  
-#  Hi, i'm Max 👋
-<p>Prev @ EXO<br>
-UWaterloo CE Sophmore <br>
-How to reach me: m43sun@uwaterloo.ca</p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+### Hey there! 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+I’m Max Sun, a Computer Engineering student at the University of Waterloo.
 
-</div>
+I build things that mix software, games, and immersive tech.
 
+If I have an idea, I prototype it, whether that’s a Unity game, a VR training tool, or an AI-powered web app and then iterate until it feels shippable.
 
+My main tech stack includes C++, C#, Python, JavaScript/TypeScript, and Unity.
+I frequently work with VR/AR, real-time 3D, and API-driven apps.
 
-
-
-
-
-
+Some of my favorite projects involve Unity games, VR simulations, and hackathon builds, some with thousands of users or live deployments.
